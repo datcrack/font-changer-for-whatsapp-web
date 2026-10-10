@@ -31,8 +31,9 @@ searchable dropdown, and applies it live — no page reload, nothing sent anywhe
 
 ### From the Chrome Web Store
 
-<!-- Add the store link once published -->
-_Coming soon._
+Install it in one click from the
+[Chrome Web Store](https://chromewebstore.google.com/detail/hcdgkpohhfdmnkneilgmonghahamflmf).
+Works in Chrome, Brave, and Edge.
 
 ### From source (GitHub)
 
